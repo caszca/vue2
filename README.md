@@ -23,4 +23,6 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![image](https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg)
+![image](https://github.com/caszca/vue2/blob/master/img/Snipaste_2022-09-25_20-39-45.png)
+
+https://github.com/caszca/vue2/blob/master/img/Snipaste_2022-09-25_20-39-45.png
