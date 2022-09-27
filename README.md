@@ -20,9 +20,9 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+### 项目图片
 ![image](https://github.com/caszca/vue2/blob/master/img/Snipaste_2022-09-25_20-39-45.png)
 ![image](https://github.com/caszca/vue2/blob/master/img/Snipaste_2022-09-25_20-40-42.png)
 
